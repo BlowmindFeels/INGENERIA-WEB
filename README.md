@@ -23,11 +23,11 @@ Organizar el contenido de forma semántica ofrece múltiples beneficios, especia
 
 Durante el desarrollo de esta página se observaron varias ventajas de utilizar HTML5:
 
-- ✅ **Estructura semántica clara**: HTML5 proporciona etiquetas específicas que reflejan el propósito del contenido, lo que mejora la accesibilidad y el SEO.
+-  **Estructura semántica clara**: HTML5 proporciona etiquetas específicas que reflejan el propósito del contenido, lo que mejora la accesibilidad y el SEO.
 
-- ✅ **Compatibilidad con navegadores modernos**: HTML5 es ampliamente soportado por todos los navegadores actuales, lo que garantiza una mejor experiencia de usuario.
+-  **Compatibilidad con navegadores modernos**: HTML5 es ampliamente soportado por todos los navegadores actuales, lo que garantiza una mejor experiencia de usuario.
 
-- ✅ **Facilidad de validación**: Herramientas como el validador oficial de W3C permiten verificar fácilmente que el código siga los estándares correctos.
+-  **Facilidad de validación**: Herramientas como el validador oficial de W3C permiten verificar fácilmente que el código siga los estándares correctos.
 
 ## Validación del código
 
