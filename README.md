@@ -31,14 +31,14 @@ Durante el desarrollo de esta página se observaron varias ventajas de utilizar 
 
 ## ¿Cómo clonar y visualizar el proyecto de manera local?
 
-1. **Clona el repositorio desde GitHub** (reemplaza `URL_DEL_REPOSITORIO` con la URL real):
+1. **Clona el repositorio desde GitHub** :
    ```bash
-   git clone https://github.com/usuario/URL_DEL_REPOSITORIO.git
+   [git clone https://github.com/usuario/URL_DEL_REPOSITORIO.git](https://github.com/BlowmindFeels/INGENERIA-WEB/tree/main)
    ```
 
 2. **Navega al directorio del proyecto**:
    ```bash
-   cd nombre-del-proyecto
+   cd Web Informativa semantica
    ```
 
 3. **Abre el archivo HTML en tu navegador**:
