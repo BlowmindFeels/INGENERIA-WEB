@@ -29,6 +29,21 @@ Durante el desarrollo de esta página se observaron varias ventajas de utilizar 
 
 -  **Facilidad de validación**: Herramientas como el validador oficial de W3C permiten verificar fácilmente que el código siga los estándares correctos.
 
+## ¿Cómo clonar y visualizar el proyecto de manera local?
+
+1. **Clona el repositorio desde GitHub** (reemplaza `URL_DEL_REPOSITORIO` con la URL real):
+   ```bash
+   git clone https://github.com/usuario/URL_DEL_REPOSITORIO.git
+   ```
+
+2. **Navega al directorio del proyecto**:
+   ```bash
+   cd nombre-del-proyecto
+   ```
+
+3. **Abre el archivo HTML en tu navegador**:
+   - Busca el archivo `index.html` (o el nombre que tenga tu archivo HTML).
+   - Haz doble clic sobre él o ábrelo con tu navegador favorito.
 
 ## Autor
 
