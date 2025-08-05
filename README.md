@@ -13,7 +13,7 @@ Este proyecto consiste en una página web desarrollada con HTML5 que presenta un
 
 Organizar el contenido de forma semántica ofrece múltiples beneficios, especialmente en proyectos colaborativos:
 
-1. **Claridad en la estructura del código**: Las etiquetas semánticas como `<header>`, `<main>`, `<article>`, y `<footer>` hacen que el código sea más legible y comprensible para cualquier desarrollador que se una al proyecto.
+1. **Claridad en la estructura del código**: Las etiquetas semánticas como "<header>", "<main>", "<article>", y "<footer>" hacen que el código sea más legible y comprensible para cualquier desarrollador que se una al proyecto.
 
 2. **Facilita la colaboración**: Cada miembro del equipo puede identificar fácilmente qué sección está modificando, reduciendo conflictos y errores en el desarrollo conjunto.
 
@@ -29,10 +29,6 @@ Durante el desarrollo de esta página se observaron varias ventajas de utilizar 
 
 -  **Facilidad de validación**: Herramientas como el validador oficial de W3C permiten verificar fácilmente que el código siga los estándares correctos.
 
-## Validación del código
-
-El archivo HTML ha sido validado exitosamente usando la herramienta oficial de W3C:  
-🔗 [https://validator.w3.org](https://validator.w3.org)
 
 ## Autor
 
