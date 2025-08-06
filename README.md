@@ -47,5 +47,6 @@ Durante el desarrollo de esta página se observaron varias ventajas de utilizar 
 
 ## Autor
 
-**Thomas Sanmiguel**  
+**Thomas Sanmiguel Garcia**  
+**Juan Felipe Villaquiran**  
 tsanmiguel05@gmail.com
